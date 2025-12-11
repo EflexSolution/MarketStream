@@ -5,7 +5,6 @@
 
 Dynamically orchestrated, event-driven architecture for real-time, high-performance predictive analytics on a scalable, enterprise-grade data pipeline platform.
 
-
 MarketStream is designed to provide developers and professionals with a robust, efficient, and scalable solution for their typescript development needs. This implementation focuses on performance, maintainability, and ease of use, incorporating industry best practices and modern software architecture patterns.
 
 The primary purpose of MarketStream is to streamline development workflows and enhance productivity through innovative features and comprehensive functionality. Whether you're building enterprise applications, data processing pipelines, or interactive systems, MarketStream provides the foundation you need for successful project implementation.
@@ -71,5 +70,4 @@ Contributions to MarketStream are welcome and appreciated! We value community in
 * Ensure all tests pass before submitting your pull request
 
 # License
-
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/EflexSolution/MarketStream/blob/main/LICENSE) file for details.
