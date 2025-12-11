@@ -70,5 +70,4 @@ Contributions to MarketStream are welcome and appreciated! We value community in
 * Ensure all tests pass before submitting your pull request
 
 # License
-
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/EflexSolution/MarketStream/blob/main/LICENSE) file for details.
